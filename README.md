@@ -1,5 +1,7 @@
 # 2048
-This was the final project for McMaster University's 2AA4 course of Winter 2021. **The report/documentation is titled "spec" in Design Specifcations.**
+This was the final project for McMaster University's 2AA4 course of Winter 2021.
+
+**The report/documentation is titled "spec" in Design Specifcations.**
 
 **Project Grade: 146.88%**
 
