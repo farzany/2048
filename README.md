@@ -1,4 +1,4 @@
-# 2048 - Report titled "spec" in Design_Specification directory.
+# 2048 - Report titled "spec" in Design_Specification.
 This was the final project for McMaster University's 2AA4 course of Winter 2021.
 
 **Project Grade: 146.88%**
